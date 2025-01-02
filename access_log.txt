@@ -1,0 +1,13 @@
+=== LOG DE ACESSOS ===
+2024-12-13 17:19:59 | IP: 127.0.0.1 | Usuário: admin | Ação: Logout realizado
+2024-12-13 17:20:04 | IP: 127.0.0.1 | Usuário: admin | Ação: Login realizado
+2024-12-13 17:20:18 | IP: 127.0.0.1 | Usuário: admin | Ação: Produto adicionado
+2024-12-13 17:20:25 | IP: 127.0.0.1 | Usuário: admin | Ação: Produto 3 atualizado
+2024-12-13 17:20:28 | IP: 127.0.0.1 | Usuário: admin | Ação: Produto 1 excluído
+2024-12-13 17:20:29 | IP: 127.0.0.1 | Usuário: admin | Ação: Produto 2 excluído
+2024-12-13 17:20:29 | IP: 127.0.0.1 | Usuário: admin | Ação: Produto 3 excluído
+2024-12-13 17:21:05 | IP: 127.0.0.1 | Usuário: admin | Ação: Logout realizado
+2024-12-13 17:21:14 | IP: 127.0.0.1 | Usuário: Adson | Ação: Login realizado
+2024-12-13 17:22:22 | IP: 127.0.0.1 | Usuário: Adson | Ação: Logout realizado
+2024-12-13 17:22:29 | IP: 127.0.0.1 | Usuário: teste | Ação: Login realizado
+2024-12-13 17:23:22 | IP: 127.0.0.1 | Usuário: teste | Ação: Login realizado

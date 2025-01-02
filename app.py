@@ -11,9 +11,9 @@ app.secret_key = "chave-secreta-super-segura"
 def conectar_bd():
     try:
         conn = mysql.connector.connect(
-            host='localhost',  # Seu host do MySQL
-            user='root',       # Seu usuário do MySQL
-            password='adson123',  # Sua senha do MySQL
+            host='localhost',  #  host do MySQL
+            user='root',       #  usuário do MySQL
+            password='adson123',  # senha do MySQL
             database='meu_projeto'  # Nome do banco de dados
         )
         if conn.is_connected():
